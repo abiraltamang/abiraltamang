@@ -27,6 +27,18 @@
 
 
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiraltamang&show_icons=true&locale=en&layout=compact" alt="abiraltamang" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abiraltamang&show_icons=true&locale=en" alt="abiraltamang" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abiraltamang&" alt="abiraltamang" /></p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abiral-blon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiral-blon" height="30" width="40" /></a>
@@ -37,10 +49,4 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiraltamang&show_icons=true&locale=en&layout=compact" alt="abiraltamang" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abiraltamang&show_icons=true&locale=en" alt="abiraltamang" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abiraltamang&" alt="abiraltamang" /></p>
 
