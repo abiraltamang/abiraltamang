@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiral Blon</h1>
-<h3 align="center">A passionate full stack developer and Data science enthusiast</h3>
+<h3 align="center">A passionate full stack developer and WEb3 enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47ugnsqrxx30xf4ajm88bbe3g71n998k49bvhxv4md&rid=giphy.gif&ct=g">
 
 
